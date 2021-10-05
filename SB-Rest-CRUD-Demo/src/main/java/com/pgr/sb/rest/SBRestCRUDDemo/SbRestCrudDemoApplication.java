@@ -1,14 +1,13 @@
-package com.pgr.sb.mvc.SBRestDemo;
+package com.pgr.sb.rest.SBRestCRUDDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SbRestDemoApplication {
+public class SbRestCrudDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SbRestDemoApplication.class, args);
+		SpringApplication.run(SbRestCrudDemoApplication.class, args);
 	}
 
-	
 }
